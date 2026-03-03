@@ -1,0 +1,6 @@
+db-backups/
+myenv/
+*.pyc
+__pycache__/
+*.sqlite3
+.env
